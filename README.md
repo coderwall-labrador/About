@@ -1,4 +1,4 @@
-#### The Lab is awarded to registered Coderwall members that have open sourced at least one original repo where C# is the dominant language.
+#### The Lab Achievement is awarded to registered Coderwall members that have open sourced at least one original repo where C# is the dominant language.
 
 ## What is Coderwall
 
